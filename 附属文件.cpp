@@ -24,5 +24,4 @@ int main(){
 	return 0;
 } 
 printf ("运行已完成")
-print ("外传S全家")
 exit 
